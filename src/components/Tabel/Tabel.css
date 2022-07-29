@@ -1,0 +1,339 @@
+.tabel{
+position: absolute;
+width: 1302px;
+height: 298px;
+left: 32px;
+top: 238px;
+
+
+}
+.tabel-name{
+padding: 0 auto;
+box-sizing: border-box;
+height: 38px;
+background: #F2F2F2;
+border: 1px solid #F2F2F2;
+font-family: 'Open Sans' !important;
+font-style: normal !important;
+font-weight: 400 !important;
+font-size: 12px !important;
+line-height: 120% !important;
+}
+.pizza-number{
+box-sizing: border-box;
+width: 77px;
+height: 52px;
+
+}
+.pizza-edit{
+box-sizing: border-box;
+width: 76px;
+font-family: 'Open Sans' !important;
+font-style: normal !important;
+font-weight: 400 !important;
+font-size: 12px !important;
+line-height: 120% !important;
+
+}
+.pizza-edit-icon{
+width: 14px !important;
+height: 14px !important;
+margin: 3px;
+}
+.pizza-name{
+  width: 266px;
+  color: #008155 !important;
+
+}
+.pizza-item{
+ border: 1px solid #F2F2F2;
+}
+.pizza-price{
+  color: #008155 !important;
+}
+.info{
+  width: 504px;
+height: 360px;
+
+background: #FFFFFF;
+border-radius: 16px;
+}
+.info-name{
+  
+position: absolute;
+left: 6.35%;
+right: 5.75%;
+top: 15.56%;
+bottom: 75.56%;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+display: flex;
+align-items: center;
+
+color: #3F3F3F;
+}
+.info-weight{
+
+position: absolute;
+left: 11.11%;
+right: 82.34%;
+top: 31.94%;
+bottom: 63.06%;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 150% */
+
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #3F3F3F;
+}
+.info-size{
+  position: absolute;
+left: 25.6%;
+right: 67.46%;
+top: 31.94%;
+bottom: 63.06%;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 150% */
+
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #3F3F3F;
+}
+.info-price{
+
+position: absolute;
+left: 81.35%;
+right: 6.35%;
+top: 31.11%;
+bottom: 62.22%;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #008155;
+}
+.info-cuc{
+  position: absolute;
+left: 6.35%;
+right: 83.13%;
+top: 44.44%;
+bottom: 50%;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+display: flex;
+align-items: center;
+
+color: #737D8A;
+}
+.info-hot{
+  position: absolute;
+left: 6.35%;
+right: 83.93%;
+top: 52.78%;
+bottom: 41.67%;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+display: flex;
+align-items: center;
+
+color: #737D8A;
+}
+.info-dough{
+  position: absolute;
+left: 6.35%;
+right: 86.11%;
+top: 61.11%;
+bottom: 33.33%;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+display: flex;
+align-items: center;
+
+color: #737D8A;
+}
+
+.info-disc{
+  position: absolute;
+left: 6.35%;
+right: 6.35%;
+top: 73.33%;
+bottom: 15.56%;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+display: flex;
+align-items: center;
+
+color: #737D8A;
+
+}
+.info-line1{
+
+position: absolute;
+width: 232px;
+height: 0px;
+left: 105px;
+top: 205px;
+
+border: 1px dashed #F2F2F2;
+}
+.info-line2{
+  position: absolute;
+width: 365px;
+height: 0px;
+left: 93px;
+top: 238px;
+
+border: 1px dashed #F2F2F2;
+}
+.info-line3{
+  position: absolute;
+width: 298px;
+height: 0px;
+left: 83px;
+top: 275px;
+
+border: 1px dashed #F2F2F2;
+}
+
+.info-cuc-pizza{
+  position: absolute;
+left: 63.29%;
+right: 24.6%;
+top: 44.44%;
+bottom: 50%;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #3F3F3F;
+}
+.info-hot-pizza{
+  position: absolute;
+left: 90.08%;
+right: 6.35%;
+top: 52.78%;
+bottom: 41.67%;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #3F3F3F;
+}
+.info-dough-pizza{
+  position: absolute;
+left: 74.6%;
+right: 6.35%;
+top: 61.11%;
+bottom: 33.33%;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #3F3F3F;
+}
+.lock{
+  width: 13.33px;
+  height: 15px;
+  position: absolute;
+left: 7.01%;
+right: 90.34%;
+top: 32.36%;
+bottom: 63.47%;
+
+
+}
+.arrow{
+  width: 14.89px;
+  height: 7.62px;
+position: absolute;
+left: 21.38%;
+right: 75.67%;
+top: 33.27%;
+bottom: 64.61%;
+
+
+}
+.info-close{
+  position: absolute;
+left: 88.53%;
+right: 22.54%;
+top: 8.53%;
+bottom: 22.53%;
+
+}

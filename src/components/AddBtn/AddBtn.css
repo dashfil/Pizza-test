@@ -1,0 +1,72 @@
+.add-btn{
+position: absolute;
+width: 149px;
+height: 34px;
+left: 1185px;
+right: 32px;
+top: 189px;
+bottom: 723px;
+font-size: 11px !important;
+color: white !important;
+background: #00704B !important; 
+border-radius: 8px;
+}
+.creacte-header{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background: #EDEDED;
+  height: 48px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.creacte-size{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.create-content{
+  margin: 25px;
+}
+
+.create-input{
+  width: 450px;
+background: #FFFFFF;
+border: 1px solid #CCCCCC;
+border-radius: 4px;
+}
+.create-name {
+  height: 30px;
+}
+.create-disc{
+height: 60px;
+}
+.creacte-gram{
+height: 30px;
+width: 86px;
+background: #FFFFFF;
+border: 1px solid #CCCCCC;
+border-radius: 4px;
+padding: 0px;
+}
+.create-tel{
+  width: 450px;
+  height: 30px;
+  border: 1px solid #CCCCCC;
+border-radius: 4px;
+
+}
+
+.creacte-footer{
+width: 456px;
+height: 56px;
+background: #F2F2F2;
+border-radius: 4px;
+margin-top: 22px;
+margin-bottom: 48px;
+padding: 10px;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
